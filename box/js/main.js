@@ -20,4 +20,4 @@ let createNotification = (e, type = null) => {
 createNotification("Notification1", "info")
 createNotification("Notification2", "danger")
 createNotification("Notification3", "warning")
-createNotification("Notification4", )
+createNotification("Notification4")
